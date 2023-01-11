@@ -1,0 +1,13 @@
+C:\Users\Aftab Ahmed\source\repos\CustomHTMLFormatter\CustomHTMLFormatter\bin\Debug\netcoreapp2.1\CustomHTMLFormatter.deps.json
+C:\Users\Aftab Ahmed\source\repos\CustomHTMLFormatter\CustomHTMLFormatter\bin\Debug\netcoreapp2.1\CustomHTMLFormatter.runtimeconfig.json
+C:\Users\Aftab Ahmed\source\repos\CustomHTMLFormatter\CustomHTMLFormatter\bin\Debug\netcoreapp2.1\CustomHTMLFormatter.runtimeconfig.dev.json
+C:\Users\Aftab Ahmed\source\repos\CustomHTMLFormatter\CustomHTMLFormatter\bin\Debug\netcoreapp2.1\CustomHTMLFormatter.dll
+C:\Users\Aftab Ahmed\source\repos\CustomHTMLFormatter\CustomHTMLFormatter\bin\Debug\netcoreapp2.1\CustomHTMLFormatter.pdb
+C:\Users\Aftab Ahmed\source\repos\CustomHTMLFormatter\CustomHTMLFormatter\obj\Debug\netcoreapp2.1\CustomHTMLFormatter.csproj.AssemblyReference.cache
+C:\Users\Aftab Ahmed\source\repos\CustomHTMLFormatter\CustomHTMLFormatter\obj\Debug\netcoreapp2.1\CustomHTMLFormatter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aftab Ahmed\source\repos\CustomHTMLFormatter\CustomHTMLFormatter\obj\Debug\netcoreapp2.1\CustomHTMLFormatter.AssemblyInfoInputs.cache
+C:\Users\Aftab Ahmed\source\repos\CustomHTMLFormatter\CustomHTMLFormatter\obj\Debug\netcoreapp2.1\CustomHTMLFormatter.AssemblyInfo.cs
+C:\Users\Aftab Ahmed\source\repos\CustomHTMLFormatter\CustomHTMLFormatter\obj\Debug\netcoreapp2.1\CustomHTMLFormatter.csproj.CoreCompileInputs.cache
+C:\Users\Aftab Ahmed\source\repos\CustomHTMLFormatter\CustomHTMLFormatter\obj\Debug\netcoreapp2.1\CustomHTMLFormatter.dll
+C:\Users\Aftab Ahmed\source\repos\CustomHTMLFormatter\CustomHTMLFormatter\obj\Debug\netcoreapp2.1\CustomHTMLFormatter.pdb
+C:\Users\Aftab Ahmed\source\repos\CustomHTMLFormatter\CustomHTMLFormatter\obj\Debug\netcoreapp2.1\CustomHTMLFormatter.genruntimeconfig.cache

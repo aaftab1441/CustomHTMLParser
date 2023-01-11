@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomHTMLFormatter", "CustomHTMLFormatter\CustomHTMLFormatter.csproj", "{11095F4E-94A3-4282-815C-B563967FB66D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11095F4E-94A3-4282-815C-B563967FB66D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11095F4E-94A3-4282-815C-B563967FB66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11095F4E-94A3-4282-815C-B563967FB66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11095F4E-94A3-4282-815C-B563967FB66D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CFAF5AF-62B2-45D6-8E13-40577BB424A3}
+	EndGlobalSection
+EndGlobal
